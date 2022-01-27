@@ -1,6 +1,6 @@
 ### Olá, sou Luiz Gustavo👋
 
-- 🌱 Atualmente estudando back-end
+- 🌱 Atualmente estudando back-and python
 - 👨‍🎓 Graduando em ADS
 
 <div align = "center">
