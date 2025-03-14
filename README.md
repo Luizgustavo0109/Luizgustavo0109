@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo;I'm+22+years+old;I+from+Paraipaba,+CE;I+analista+dados+|+DEV+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Gustavo;I'm+22+years+old;I+from+Paraipaba,+CE;I+analista+de+dados+|+DEV+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align = "center">
   <a href="https://github.com/Luizgustavo0109">
